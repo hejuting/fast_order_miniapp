@@ -7,7 +7,7 @@
     data-id="{{noticeLastOne.id}}"
   />
 </view>
-<view wx:if="{{ !scanDining }}" class="box">
+<!-- <view wx:if="{{ !scanDining }}" class="box">
   <view class="shop-name">
     <view class="name">{{shopInfo.name}}</view>
     <view class="select">
@@ -24,7 +24,7 @@
       </view>
     </navigator>
   </view>
-</view>
+</view> -->
 <view class="box1">
   <view class="box-1">
     <van-sidebar>
